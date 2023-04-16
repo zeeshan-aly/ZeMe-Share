@@ -18,4 +18,4 @@ When you open the app, it will fetch the latest memes from Reddit and display th
 Contributions are welcome! If you would like to contribute to MemeShare, please create a pull request on the GitHub repository.
 
 # Credits
-MemeShare was created by [Your Name] using Kotlin, XML, Android SDK, and Volley Library. The app uses Reddit's RESTful JSON API to fetch memes.
+MemeShare was created by Syed Mohd Zeeshan Ali using Kotlin, XML, Android SDK, and Volley Library. The app uses Reddit's RESTful JSON API to fetch memes.
